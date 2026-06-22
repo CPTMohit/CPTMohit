@@ -30,42 +30,36 @@ I'm a passionate developer focused on the intersection of deep learning and mark
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,pytorch,scikit,pandas,git,github&perline=7" />
-  </a>
-</p>
+## 📈 Featured Projects
 
----
-
-#<table>
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 FinTech Risk Engine</h3>
+      <p>Real-time quantitative trading engine integration using Angel One SmartAPI. Analyzes PCR and Open Interest (OI) buildup to generate option signals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square" />
+      </p>
       <a href="https://github.com/CPTMohit/FinTech_Risk_Engine" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPTMohit&repo=FinTech_Risk_Engine&theme=tokyonight" width="100%" alt="FinTech Risk Engine Repo"/>
+        <img src="https://img.shields.io/badge/Explore_Source_Code-→-7AA2F7?style=for-the-badge&labelColor=1A1B26" width="100%"/>
       </a>
-      <p></p>
-      <ul>
-        <li>Real-time quantitative trading engine integration using Angel One SmartAPI.</li>
-        <li>Analyzes PCR, Open Interest (OI) buildup, and outputs precise option signals for NIFTY/BANKNIFTY.</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ TTS Model Workspace</h3>
+      <p>End-to-end custom Text-to-Speech framework developed in PyTorch. Implements mel-spectrogram inversion pipelines and custom vocoders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Audio-Signal_Proc-🚀?style=flat-square" />
+      </p>
       <a href="https://github.com/CPTMohit/TTS-MODEL-BUILDING-AND-FINE-TUNING-" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPTMohit&repo=TTS-MODEL-BUILDING-AND-FINE-TUNING-&theme=tokyonight" width="100%" alt="TTS Model Repo"/>
+        <img src="https://img.shields.io/badge/Explore_Source_Code-→-7AA2F7?style=for-the-badge&labelColor=1A1B26" width="100%"/>
       </a>
-      <p></p>
-      <ul>
-        <li>End-to-end custom Text-to-Speech framework developed in PyTorch.</li>
-        <li>Implements mel-spectrogram inversion pipelines and custom neural vocoder training architectures.</li>
-      </ul>
     </td>
   </tr>
 </table>
----
 
 ## 🐍 Contribution Graph Animation
 <p align="center">
