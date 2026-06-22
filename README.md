@@ -39,13 +39,13 @@ I'm a passionate developer focused on the intersection of deep learning and mark
 
 ---
 
-## 📈 Featured Projects
-
-<table>
+#<table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 FinTech Risk Engine</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPTMohit&repo=FinTech_Risk_Engine&theme=tokyonight" width="100%" />
+      <a href="https://github.com/CPTMohit/FinTech_Risk_Engine" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPTMohit&repo=FinTech_Risk_Engine&theme=tokyonight" width="100%" alt="FinTech Risk Engine Repo"/>
+      </a>
       <p></p>
       <ul>
         <li>Real-time quantitative trading engine integration using Angel One SmartAPI.</li>
@@ -54,7 +54,9 @@ I'm a passionate developer focused on the intersection of deep learning and mark
     </td>
     <td width="50%" valign="top">
       <h3>🎙️ TTS Model Workspace</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPTMohit&repo=TTS-MODEL-BUILDING-AND-FINE-TUNING-&theme=tokyonight" width="100%" />
+      <a href="https://github.com/CPTMohit/TTS-MODEL-BUILDING-AND-FINE-TUNING-" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPTMohit&repo=TTS-MODEL-BUILDING-AND-FINE-TUNING-&theme=tokyonight" width="100%" alt="TTS Model Repo"/>
+      </a>
       <p></p>
       <ul>
         <li>End-to-end custom Text-to-Speech framework developed in PyTorch.</li>
@@ -63,7 +65,6 @@ I'm a passionate developer focused on the intersection of deep learning and mark
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🐍 Contribution Graph Animation
