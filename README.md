@@ -24,7 +24,7 @@ I'm a passionate developer focused on the intersection of deep learning and mark
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CPTMohit&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophy" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=CPTMohit&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophy" />
   </a>
 </p>
 
