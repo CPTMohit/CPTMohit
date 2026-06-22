@@ -1,7 +1,11 @@
-# Hi there, I'm Mohit Singh 👋 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<h1 align="center">
+  Hi there, I'm Mohit Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving Hand">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;FinTech+Enthusiast;Building+the+Future+of+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;FinTech+Enthusiast;Building+Predictive+AI+Models;Turning+Data+Into+Alpha" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,24 +14,27 @@
   <a href="https://wa.me/919103006211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🚀 About Me
-I'm a passionate developer focused on the intersection of deep learning and market mechanics. I build production-ready data pipelines, specialize in speech synthesis ($TTS$), and design high-frequency quantitative dashboards.
+I'm a passionate developer focused on the intersection of deep learning and market mechanics. I build production-ready data pipelines, specialize in speech synthesis (TTS), and design high-frequency quantitative dashboards.
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CPTMohit&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophy" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
-
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="SciKit-Learn"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/jupyter-%23FA4F01.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,pytorch,scikit,pandas,git,github&perline=7" />
+  </a>
 </p>
 
 ---
@@ -59,18 +66,25 @@ I'm a passionate developer focused on the intersection of deep learning and mark
 
 ---
 
+## 🐍 Contribution Graph Animation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
 ## 📊 Analytics & Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CPTMohit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPTMohit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CPTMohit&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CPTMohit&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <i>"In data we trust, everything else we test."</i> ⚡
