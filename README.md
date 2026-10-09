@@ -1,113 +1,169 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<!-- ============================================================
+     Pranav Jain — GitHub Profile README
+     ============================================================ -->
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center" width="30%">
-      <!-- Drop your generated avatar image into your repo and name it avatar.png, or link it here -->
-      <img src="avatar.png" width="150px" style="border-radius: 50%; border: 2px solid #7AA2F7;" alt="Mohit Singh"/>
-    </td>
-    <td align="left" width="70%">
-      <h1 style="margin: 0;">
-        Hi there, I'm Mohit Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand">
-      </h1>
-      <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=false&vCenter=true&width=500&lines=Machine+Learning+Engineer;FinTech+Enthusiast;Building+Predictive+AI+Models;Turning+Data+Into+Alpha" alt="Typing SVG" />
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/cptmohitsingh/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:mohitbacktocds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-        <a href="https://wa.me/919103006211" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=header" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohit+Singh+%F0%9F%91%8B;Machine+Learning+Engineer;FinTech+%2B+Deep+Learning;Building+things+that+actually+work." alt="Typing SVG" />
+</div>
 
-### ⚡ About Me
-I'm a passionate developer focused on the intersection of deep learning and market mechanics. I build production-ready data pipelines, specialize in speech synthesis (TTS), and design high-frequency quantitative dashboards.
+<br/>
 
----
-
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,git,docker,linux,vscode,postman&theme=dark" alt="Tech Stack" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=CPTMohit&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="trophy" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/cptmohitsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+  &nbsp;
+  <a href="mailto:mohitbacktocds@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/919103006211">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=CPTMohit&style=flat-square&color=58a6ff&label=profile+views"/>
+</div>
 
 ---
 
-## 📈 Featured Projects
+## $ whoami
+
+```python
+class MohitSingh:
+    def __init__(self):
+        self.name        = "Mohit Singh"
+        self.role        = "Machine Learning Engineer"
+        self.focus       = ["FinTech", "TTS / Speech Synthesis", "Quantitative AI"]
+        self.languages   = ["Python", "C++", "SQL", "Bash"]
+        self.currently   = "Building high-frequency quantitative dashboards"
+        self.learning    = "Production-grade MLOps & LLM fine-tuning"
+        self.contact     = "mohitbacktocds@gmail.com"
+
+    def __str__(self):
+        return "Turning raw data into alpha, one model at a time."
+
+me = MohitSingh()
+print(me)
+# → Turning raw data into alpha, one model at a time.
+```
+
+---
+
+## ⚙️ Tech stack
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+**Backend / Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+
+---
+
+## 🗂 Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 FinTech Risk Engine</h3>
-      <p>Real-time quantitative trading engine integration using Angel One SmartAPI. Analyzes PCR and Open Interest (OI) buildup to generate option signals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square" />
-      </p>
-      <a href="https://github.com/CPTMohit/FinTech_Risk_Engine" target="_blank">
-        <img src="https://img.shields.io/badge/Explore_Source_Code-→-7AA2F7?style=for-the-badge&labelColor=1A1B26" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ TTS Model Workspace</h3>
-      <p>End-to-end custom Text-to-Speech framework developed in PyTorch. Implements mel-spectrogram inversion pipelines and custom vocoders.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Audio-Signal_Proc-🚀?style=flat-square" />
-      </p>
-      <a href="https://github.com/CPTMohit/TTS-MODEL-BUILDING-AND-FINE-TUNING-" target="_blank">
-        <img src="https://img.shields.io/badge/Explore_Source_Code-→-7AA2F7?style=for-the-badge&labelColor=1A1B26" width="100%"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 FinTech Risk Engine
+
+Real-time quantitative trading engine built on top of Angel One SmartAPI. Parses PCR ratios and Open Interest buildup across strikes to generate actionable option signals with risk-adjusted sizing.
+
+**Stack:** `Python` `PyTorch` `FastAPI` `WebSocket`
+
+**Highlights**
+- Sub-100ms signal generation loop
+- Multi-expiry OI delta tracking
+- REST + WebSocket hybrid feed
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CPTMohit/FinTech_Risk_Engine)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 TTS Model Workspace
+
+End-to-end custom Text-to-Speech framework in PyTorch. Implements mel-spectrogram inversion pipelines, custom vocoder architectures, and fine-tuning workflows for low-resource voices.
+
+**Stack:** `Python` `PyTorch` `librosa` `soundfile`
+
+**Highlights**
+- Custom HiFi-GAN vocoder
+- Mel-spectrogram inversion pipeline
+- Fine-tuning on <1 hr of audio data
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CPTMohit/TTS-MODEL-BUILDING-AND-FINE-TUNING-)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🐍 Contribution Graph Animation
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CPTMohit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CPTMohit&theme=github-dark-blue&hide_border=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPTMohit&theme=github_dark&hide_border=true&layout=compact&langs_count=8" width="40%"/>
+
+</div>
 
 ---
 
-## 📊 Analytics & Insights
+## 🐍 Contribution snake
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CPTMohit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CPTMohit&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPTMohit&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+## 🏆 Trophies
 
-<p align="center">
-  <i>"In data we trust, everything else we test."</i> ⚡
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CPTMohit&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</div>
+
+---
+
+<div align="center">
+  <sub>
+    <code>while alive: learn(); build(); ship();</code>
+  </sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
+</div>
