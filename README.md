@@ -1,169 +1,139 @@
-<!-- ============================================================
-     Pranav Jain — GitHub Profile README
-     ============================================================ -->
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=MOHIT%20SINGH&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&descSize=20" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=header" width="100%"/>
-</div>
+<!-- PROFILE PICTURE -->
+<p align="center">
+  <img src="https://github.com/CPTMohit.png" width="170" alt="Mohit Singh" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohit+Singh+%F0%9F%91%8B;Machine+Learning+Engineer;FinTech+%2B+Deep+Learning;Building+things+that+actually+work." alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/cptmohitsingh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/CPTMohit">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=Building+end-to-end+ML+pipelines;Real-time+options+analytics+%7C+NIFTY+%26+BANKNIFTY;Teaching+machines+to+speak+with+Tacotron+2+%2B+WaveNet;Full-stack+apps+with+React+%2B+Node+%2B+MongoDB;Open+to+Junior+Data+Scientist+%2F+ML+Engineer+roles" alt="Typing animation" />
   </a>
-  &nbsp;
-  <a href="mailto:mohitbacktocds@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/919103006211">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=CPTMohit&style=flat-square&color=58a6ff&label=profile+views"/>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohitsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohitbacktocds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=CPTMohit&label=Profile%20Views&color=00f0ff&style=for-the-badge" />
+</p>
 
 ---
 
-## $ whoami
+## ⚡ `> whoami`
 
 ```python
-class MohitSingh:
-    def __init__(self):
-        self.name        = "Mohit Singh"
-        self.role        = "Machine Learning Engineer"
-        self.focus       = ["FinTech", "TTS / Speech Synthesis", "Quantitative AI"]
-        self.languages   = ["Python", "C++", "SQL", "Bash"]
-        self.currently   = "Building high-frequency quantitative dashboards"
-        self.learning    = "Production-grade MLOps & LLM fine-tuning"
-        self.contact     = "mohitbacktocds@gmail.com"
-
-    def __str__(self):
-        return "Turning raw data into alpha, one model at a time."
-
-me = MohitSingh()
-print(me)
-# → Turning raw data into alpha, one model at a time.
+class Mohit:
+    role      = "Junior Data Scientist | ML Engineer"
+    location  = "Bengaluru, India 🇮🇳"
+    studying  = "M.Sc. Data Science @ Jain University (2027)"
+    languages = ["Python", "SQL", "JavaScript"]
+    focus     = ["Machine Learning", "Speech AI", "Quant Analytics", "Full-Stack"]
+    status    = "Open to opportunities 🚀"
 ```
 
 ---
 
-## ⚙️ Tech stack
+## 🧠 `> tech_stack`
 
-**ML / AI**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,pandas,numpy,postgres,react,nodejs,express,mongodb,flask,git,github&perline=13" />
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-
-**Backend / Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+**🔹 Machine Learning:** Regression · Classification · Ensemble Learning · Model Stacking · SVM · Feature Engineering · Model Evaluation
+**🔹 Deep Learning & Audio AI:** Neural Networks · Seq2Seq · Encoder-Decoder · Tacotron 2 · WaveNet · Text-to-Speech · Mel Spectrograms · STFT
+**🔹 Data:** EDA · Data Cleaning · Normalization · Data Visualization · Keras · torchaudio · librosa
 
 ---
 
-## 🗂 Projects
+## 🚀 `> featured_projects`
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔷 FinTech Risk Engine
-
-Real-time quantitative trading engine built on top of Angel One SmartAPI. Parses PCR ratios and Open Interest buildup across strikes to generate actionable option signals with risk-adjusted sizing.
-
-**Stack:** `Python` `PyTorch` `FastAPI` `WebSocket`
-
-**Highlights**
-- Sub-100ms signal generation loop
-- Multi-expiry OI delta tracking
-- REST + WebSocket hybrid feed
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CPTMohit/FinTech_Risk_Engine)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔷 TTS Model Workspace
-
-End-to-end custom Text-to-Speech framework in PyTorch. Implements mel-spectrogram inversion pipelines, custom vocoder architectures, and fine-tuning workflows for low-resource voices.
-
-**Stack:** `Python` `PyTorch` `librosa` `soundfile`
-
-**Highlights**
-- Custom HiFi-GAN vocoder
-- Mel-spectrogram inversion pipeline
-- Fine-tuning on <1 hr of audio data
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CPTMohit/TTS-MODEL-BUILDING-AND-FINE-TUNING-)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/CPTMohit/FinTech_Risk_Engine">FLOW Trading Desk</a></h3>
+      Real-time quantitative trading dashboard for <b>NIFTY</b> &amp; <b>BANKNIFTY</b> using the Angel One SmartAPI: PCR and OI buildup analysis, ML risk scoring and options signal generation. Roadmap: multi-agent architecture with risk-first controls and backtesting.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-00f0ff?style=flat-square&logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/ML%20Risk%20Scoring-ff00c8?style=flat-square" />
+      <img src="https://img.shields.io/badge/SmartAPI-7c3aed?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗣️ <a href="https://github.com/CPTMohit/TTS-MODEL-BUILDING-AND-FINE-TUNING-">Text-to-Speech Engine</a></h3>
+      Custom TTS prototype in PyTorch: dataset preprocessing, mel spectrograms with STFT, model training and fine-tuning, and speech synthesis with a WaveNet vocoder.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-00f0ff?style=flat-square&logo=pytorch&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tacotron%202-ff00c8?style=flat-square" />
+      <img src="https://img.shields.io/badge/WaveNet-7c3aed?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌫️ <a href="https://github.com/CPTMohit/Air-Quality-Index-Prediction-using-Multi-Model-Ensemble-Learning">AQI Prediction</a></h3>
+      Compares multiple ML models and improves Air Quality Index prediction accuracy using feature engineering and ensemble learning.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Scikit--learn-00f0ff?style=flat-square&logo=scikitlearn&logoColor=black" />
+      <img src="https://img.shields.io/badge/Ensemble%20Learning-ff00c8?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 <a href="https://github.com/harsh-081004/OODO-hackethon-HRMS">Dayflow HRMS</a></h3>
+      Full-stack HR system: employees manage profiles, attendance, leave and payroll views; admins and HR manage records, review requests and access reports.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-00f0ff?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-ff00c8?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-7c3aed?style=flat-square&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📊 GitHub stats
+## 💼 `> experience`
 
-<div align="center">
+| 🗓️ When | 🏢 Where | 🎯 What |
+|---|---|---|
+| Jun 2026 - Aug 2026 | **BlueStock**, Bengaluru | ML Intern: data prep, preprocessing, model training and fine-tuning |
+| Feb 2023 - Apr 2023 | **CODTECH IT Solutions**, Remote | ML Intern: EDA, classification and regression models, model evaluation |
 
-<img src="https://github-readme-stats.vercel.app/api?username=CPTMohit&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CPTMohit&theme=github-dark-blue&hide_border=true" width="48%"/>
+## 🎓 `> education`
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPTMohit&theme=github_dark&hide_border=true&layout=compact&langs_count=8" width="40%"/>
-
-</div>
+- **M.Sc. Data Science**, Jain University, Bengaluru (expected May 2027)
+- **BCA**, Cavalier Institution, Bengaluru (May 2025)
 
 ---
 
-## 🐍 Contribution snake
+## 📊 `> github_stats`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CPTMohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPTMohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CPTMohit&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CPTMohit&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+</p>
+
+<!-- ANIMATED CONTRIBUTION SNAKE (needs the workflow below, optional) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CPTMohit/CPTMohit/output/github-snake-dark.svg" width="100%" />
+</p>
 
 ---
 
-## 🏆 Trophies
+## 📫 `> connect`
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CPTMohit&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
+<p align="center">
+  Looking for <b>Junior Data Scientist</b> and <b>Machine Learning Engineer</b> roles.<br/>
+  Reach me on <a href="https://linkedin.com/in/mohitsingh">LinkedIn</a> or at <a href="mailto:mohitbacktocds@gmail.com">mohitbacktocds@gmail.com</a>
+</p>
 
----
-
-<div align="center">
-  <sub>
-    <code>while alive: learn(); build(); ship();</code>
-  </sub>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+</p>
